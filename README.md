@@ -3,10 +3,11 @@
 Tôi là Backend / Data Engineer tập trung vào việc xây dựng luồng dữ liệu (data pipelines), API hiệu năng cao và xử lý các bài toán trong hệ thống phân tán. Định hướng của tôi là ưu tiên kiến trúc sạch (clean architecture), tự động hóa hạ tầng và đảm bảo khả năng giám sát hệ thống (observability).
 
 ### 🛠 Tech Stack
-*   **Ngôn ngữ lập trình:** Python, SQL, Bash (Scripting)
-*   **Data Engineering:** Apache Spark, Kafka, Apache Airflow, dbt, PostgreSQL, Minio
+*   **Ngôn ngữ lập trình:** Python, SQL, Bash, TypeScript
+*   **Data Engineering:** Apache Spark, Kafka, Apache Airflow, dbt, PostgreSQL, Minio, Redis
+*   **AI** LLM, ML
 *   **Hạ tầng & DevOps:** Docker, Linux, Google Cloud Platform
-*   **Công cụ:** Git, uv (Python env management)
+*   **Công cụ:** Git, uv
 
 ### 🚀 Các dự án cốt lõi (Core Projects)
 *   **[ELT-Weather]([link-repo]):** Pipeline dữ liệu tự động hóa quy trình ELT. Thu thập dữ liệu thời tiết thô từ Open-Meteo API, điều phối luồng chạy bằng Airflow, transform dữ liệu qua các mô hình dbt, lưu trữ vào kho dữ liệu PostgreSQL và trực quan hóa bằng Looker Studio.
